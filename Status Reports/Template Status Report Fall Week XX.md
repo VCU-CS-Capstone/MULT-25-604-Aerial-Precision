@@ -1,10 +1,10 @@
-# *CS 25-XXX Project Name*
+# *MULT 25-604 Aerial Precision*
 
-**Students' Names:**
+**Students' Names: Adil Adil, Grady Beck, Colin Drake, Nathan Germain**
 
-**Mentor:**
+**Sponsor: Matt Merrill, GeoDecisions**
 
-**Faculty Advisor:**
+**Faculty Advisors: Yuichi Motai and Tamer Nadeem**
 
 ## 1) Accomplishments this week ##
    - investigate databases done by student A

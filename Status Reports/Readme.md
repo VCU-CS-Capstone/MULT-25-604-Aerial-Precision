@@ -16,8 +16,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 3 Status Report | getting started with research | met with faculty for first time, finished team contract | none |
 | Week 4 Status Report | get details of project from sponsor | researching project, getting ideas flowing | wasn't able to get in touch with sponsor until this week |
 | Week 5 Status Report | get project proposal started | met with sponsor, began detailing design process | need to clarify the project a bit more |
-| Week 6 Status Report | | | |
-| Week 7 Status Report | | | |
+| Week 6 Status Report | continue editing the project proposal, Gantt Chart | we got our first draft done of the proposal | none, we have been going pretty strong |
+| Week 7 Status Report | submit proposal, turn attention to next steps, design, poster | we finished the Gantt chart and are working on determining how we will get a Lidar sensor | none right now |
 | Week 8 Status Report | | | |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |

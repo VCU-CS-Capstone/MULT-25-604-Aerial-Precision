@@ -18,7 +18,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 5 Status Report | get project proposal started | met with sponsor, began detailing design process | need to clarify the project a bit more |
 | Week 6 Status Report | continue editing the project proposal, Gantt Chart | we got our first draft done of the proposal | none, we have been going pretty strong |
 | Week 7 Status Report | submit proposal, turn attention to next steps, design, poster | we finished the Gantt chart and are working on determining how we will get a Lidar sensor | none right now |
-| Week 8 Status Report | | | |
+| Week 8 Status Report | start choosing equipment, getting started with ArcGIS | finalized proposal | none except for some unknowns that next week's work will solve |
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |

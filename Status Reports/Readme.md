@@ -19,10 +19,10 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 6 Status Report | continue editing the project proposal, Gantt Chart | we got our first draft done of the proposal | none, we have been going pretty strong |
 | Week 7 Status Report | submit proposal, turn attention to next steps, design, poster | we finished the Gantt chart and are working on determining how we will get a Lidar sensor | none right now |
 | Week 8 Status Report | start choosing equipment, getting started with ArcGIS | finalized proposal | none except for some unknowns that next week's work will solve |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
+| Week 9 Status Report | get data | defined approaches for lidar vs photogrammetry | no real data yet |
+| Week 10 Status Report | getting started in ArcGIS Pro | viewed sample datasets, planned field excursions and locations for getting our own data | delays in getting data, licensing from sponsor |
+| Week 11 Status Report | getting advanced tools, using other sides of pipeline (import, export) | familiarization with ArcGIS Pro, manipulating pre-processed model | slow computer has trouble with model |
+| Week 12 Status Report |  |  |  |
 | Week 13 Status Report | | | |
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |

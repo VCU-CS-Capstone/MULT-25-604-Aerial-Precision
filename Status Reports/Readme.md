@@ -22,8 +22,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 9 Status Report | get data | defined approaches for lidar vs photogrammetry | no real data yet |
 | Week 10 Status Report | getting started in ArcGIS Pro | viewed sample datasets, planned field excursions and locations for getting our own data | delays in getting data, licensing from sponsor |
 | Week 11 Status Report | getting advanced tools, using other sides of pipeline (import, export) | familiarization with ArcGIS Pro, manipulating pre-processed model | slow computer has trouble with model |
-| Week 12 Status Report |  |  |  |
-| Week 13 Status Report | | | |
+| Week 12 Status Report | continue implementing data pipeline | got a model displayed in ArcGIS | still need access to ArcGIS Reality |
+| Week 13 Status Report | get working demonstration of data pipeline by first week after break | continued on pipeline, submitted finalized poster | still need ArcGIS Reality; need to choose new Lidar (other not in stock) |
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |

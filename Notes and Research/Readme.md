@@ -1,5 +1,9 @@
 # Notes and Research Folder
 
-- Description of any other tools, technologies and APIs needed.  
-- Links to reference guides, or examples.
-- Description of development environment or link to development environment
+This folder contains the manuals used to configure the RadioLink M435 drone, including the following sourced from ([RadioLink's downloads page](https://radiolink.com.cn/downloads)) :
+
+- M435 Drone
+- CrossRace V2.0 Flight Controller
+- AT9S Transmitter
+
+It also contains the Unitree manual for the L1 LiDAR, from their ([downloads page](https://www.unitree.com/download/LiDAR))

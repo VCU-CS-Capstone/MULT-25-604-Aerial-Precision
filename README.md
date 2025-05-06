@@ -15,6 +15,7 @@ The project aims to utilize spatial data collection and analysis by leveraging d
 
 ## Project Team
 - *Matt Merrill*  - *GeoDecisions* - Sponsor
+- *Chad Bunyard* - *GeoDecisions* - Sponsor/Technical Advisor
 - *Yuichi Motai* - *Electrical and Computer Engineering* - Faculty Advisor
 - *Tamer Nadeem* - *Computer Science* - Faculty Advisor
 - *Adil Adil* - *Computer Engineering* - Student Team Member

@@ -7,14 +7,13 @@
 **Faculty Advisors: Yuichi Motai and Tamer Nadeem**
 
 ## 1) Accomplishments this week ##
-   - figured out how to convert point cloud data to LAS format
-   - started planning two flights at the dams on James River
+   - worked on the final report and TPO
 
 ## 2) Milestones to be completed next week ##
-   - work on exporting LAS from drone into ArcGIS Pro
+   - get good draft finished of report and TPO
 
 ## 3) Issues, problems or concerns ##
-   - need to find proper library for point cloud conversion
+   - none
    
 
 

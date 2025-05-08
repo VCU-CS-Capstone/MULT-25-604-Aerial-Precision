@@ -39,12 +39,12 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 5 Status Report | plan for GCP flight, begin Lidar software implementation | discussions about Lidar software direction; displayed first photogrammetry model |  |
 | Week 6 Status Report | need to get the compilation issue figured out for the SDK | prepped the SDK for use with lidar, raspberry pi | SDK compilation issue |
 | Week 7 Status Report | look into converting point clouds to GIS | fixed error in SDK, created point clouds with SDK | new drone not delivered yet |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
-| Week 12 Status Report | | | |
-| Week 13 Status Report | | | |
-| Week 14 Status Report | | | |
-| Week 15 Status Report | | | |
-| Week 16 Status Report | | | |
+| Week 8 Status Report | place the LAS files in ArcGIS Pro | designed process for converting PCD to LAS | none |
+| Week 9 Status Report | perform flights on James River | ran point cloud in ArcGIS local scene | figuring out legality of flight locations |
+| Week 10 Status Report | process flight data | performed flights of both dams | none |
+| Week 11 Status Report | improve LiDAR headless configuration | made 3D models of the dams | none |
+| Week 12 Status Report | start preparing to wrap things up | finalized headless Pi configuration | none |
+| Week 13 Status Report | documentation | finalized design for drone, lidar; commented code | none |
+| Week 14 Status Report | finish drafts | worked on final report, TPO | none |
+| Week 15 Status Report | have finished the drafts of design report, TPO | finalize, collect, and submit everything | none |
+| Week 16 Status Report | it is finished | finalized, exported, and submitted everything | none |
